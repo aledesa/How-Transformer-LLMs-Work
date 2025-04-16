@@ -1,6 +1,6 @@
 # How Transformer LLMs Work
 
-Notes form the course [How Transformer LLMs Work](https://learn.deeplearning.ai/courses/how-transformer-llms-work/lesson/nfshb/introduction?courseName=how-transformer-llms-work) by Jay Alammar and Maarten Grootendorst.
+Notes from the course [How Transformer LLMs Work](https://learn.deeplearning.ai/courses/how-transformer-llms-work/lesson/nfshb/introduction?courseName=how-transformer-llms-work) by Jay Alammar and Maarten Grootendorst.
 
 # Disclaimer
 
